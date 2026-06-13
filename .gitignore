@@ -1,0 +1,22 @@
+# Swift / SPM build output
+.build/
+*.xcodeproj
+DerivedData/
+
+# Packaged artifacts (ship these via GitHub Releases, not the repo)
+*.app/
+*.dmg
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local icon scratch
+/tmp/
+
+# Marketing site lives in its own repo (swiftshot / Vercel)
+/website

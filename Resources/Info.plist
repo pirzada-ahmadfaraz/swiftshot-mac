@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>SwiftShot</string>
+	<key>CFBundleExecutable</key>
+	<string>CleanShotClone</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ahmadfaraz.cleanshotclone</string>
+	<key>CFBundleName</key>
+	<string>SwiftShot</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>SwiftShot needs Screen Recording permission to capture screenshots and record your screen.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>SwiftShot records your microphone in screen recordings when enabled.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>SwiftShot shows your webcam as an overlay inside screen recordings.</string>
+</dict>
+</plist>
